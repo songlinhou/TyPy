@@ -13,5 +13,5 @@ setup(
     packages=['typy'],
     install_requires=[],
     keywords = ['type','strong type','python'],
-    download_url = 'https://github.com/201528015329004/TyPy/archive/0.1.tar.gz'
+    download_url = 'https://github.com/201528015329004/TyPy/archive/0.2.tar.gz'
 )
