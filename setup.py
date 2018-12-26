@@ -12,5 +12,6 @@ setup(
     description=u'A light-weight python library to add strongly typed features at runtime (For Python 2.7)',
     packages=['typy'],
     install_requires=[],
-    keywords = ['type','strong type','python']
+    keywords = ['type','strong type','python'],
+    download_url = 'https://github.com/201528015329004/TyPy/archive/0.1.tar.gz'
 )
